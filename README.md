@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @DevWesleyLima
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C# .NET
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+currently learning C# .NET
 
 <!---
 DevWesleyLima/DevWesleyLima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
