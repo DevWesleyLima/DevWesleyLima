@@ -1,4 +1,4 @@
-Currently learning C# .NET
+:books: Currently learning C# .NET
 
 <!---
 DevWesleyLima/DevWesleyLima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
