@@ -1,4 +1,4 @@
-:books: Currently learning C# .NET
+:books: Learning C# .NET (Udemy - Nelio Alves) and JS (Google App - Grasshopper);
 
 <!---
 :books:
