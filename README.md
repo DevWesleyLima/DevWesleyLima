@@ -6,7 +6,7 @@ My passion has always been technology and electronic devices. I remember how fas
 *********************************
 📚 Currently Learning
 
-C# DotNet and Java Script
+C# DotNet and Javascript
 *********************************
 📧 Contact
 
@@ -14,10 +14,4 @@ wsouza1992.wl@gmail.com
 *********************************
 💼 Job Status
 
-Seeking opportunities
-
-<!---
-:books:
-DevWesleyLima/DevWesleyLima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software Analyst at #Aliare
