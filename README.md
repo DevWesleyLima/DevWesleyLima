@@ -2,7 +2,7 @@
 *************************************************
 🧑🏻‍💻 .NET | C# | Xamarin | JavaScript | Vue.js
 *************************************************
-📚 Currently Learning: TypeScript and Python
+📚 Learning TypeScript and Python
 *************************************************
 💼 Software Development Analyst | .Net at Aliare
 *************************************************
